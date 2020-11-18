@@ -3,4 +3,4 @@ This project is a homework assignment to teach how to get pycharm setup with Doc
 ##MySQL Screenshot
 ![mysql_output](screenshots/query.png)
 ##Postman Screenshot
-![postman_request_output] (screenshots/postman.png)
+![postman_output](screenshots/postman.png)
